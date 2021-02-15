@@ -3,9 +3,9 @@
 ## Preamble
 
 As our own Agent_Delphi said:
-> Our very environment in this place is limited, and must be treated as such.
+> "Our very environment in this place is limited, and must be treated as such.
 > 
-> With reverence, respect, and an attitude of custodianship.
+> With reverence, respect, and an attitude of custodianship."
 >
 >*(Agent_Delphi, NOBSMC Discord)*
 
